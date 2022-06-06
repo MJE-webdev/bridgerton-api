@@ -31,7 +31,7 @@ app.use(cors())
     'image': 'https://juliaquinn.com/WP/wp-content/uploads/2022/03/WAX_eloise.jpg',
     'quotes':  'If you desire the sun And moon, all you have to do ss go out and shoot at the sky. Some of us cannot.'
     },
-    'Duke of Hastings'{
+    'Duke of Hastings':{
         'name': ['Duke of Hastings', 'Simon Basset'],
         'description': '',
         'likes': ['gooseberry pie', 'boxing'],
@@ -39,7 +39,7 @@ app.use(cors())
         'image': 'https://www.filmsjackets.com/image/cache/catalog/Bridgerton%20S02%20Simon%20Basset%20Grey%20Tailcoat/Bridgerton-Simon-Basset-Grey-Tailcoat-1100x1100h.jpg',
         'quote': 'To meet a beautiful woman is one thing, but to meet your best friend in the most beautiful of women is something entirely apart.'
         
-    }
+    },
     'unknown': {
         'name': 'unknown',
         'description': 'unknown',
